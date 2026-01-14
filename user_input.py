@@ -32,3 +32,4 @@ print(f"You have bought {quantity} x {item}/s.")
 print(f"Your total is : ${total}")
 
 
+#updated
